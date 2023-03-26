@@ -3,6 +3,7 @@ body {
     color: white;
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     margin: 0;
+    height: 100vh;
   }
   
   .dropdown-container {
@@ -64,7 +65,8 @@ body {
   
   .movies__container img {
     margin-right: 10px;
-    width: 200px;
+    width: 361px;
+    height:200px;
   }
   
   header {
@@ -132,6 +134,7 @@ body {
   .featured h2 {
     font-size: 50px;
     margin: 0;
+    margin-bottom: 15px;
     z-index: 10;
   }
   
@@ -161,6 +164,7 @@ body {
   .featured .featured__buttons .button__play {
     background-color: white;
     color: black;
+    margin-bottom: 15px;
   }
   
   .button__play i {
@@ -169,6 +173,7 @@ body {
   
   .featured .featured__description {
     max-width: 350px;
+    font-size: 1rem;
     font-weight: 400;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.45);
     z-index: 10;
