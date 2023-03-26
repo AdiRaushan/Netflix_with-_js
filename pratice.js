@@ -66,7 +66,6 @@ window.onload = () => {
     
     // Create a variable that grabs id or class
     let moviesel = document.querySelector('getTrendingNow')
-
   
     // Loop through object
   
@@ -95,7 +94,6 @@ window.onload = () => {
   // ** Function that fetches Trending Movies **
   function getTrendingNow() {
   
-    
   }
   // ** Function that fetches Top Rated Movies **
   function getTopRated() {
