@@ -164,8 +164,3 @@ const handleMovieSelection = e => {
   $('#trailerModal').modal('show')
   // we need to call the api with the ID
 }
-fgfgf;g\fgf'gfgfgfg
-fetchMoviesg
-fgffgfg
-fgf
-fgffgfgfg
