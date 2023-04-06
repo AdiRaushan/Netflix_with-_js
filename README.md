@@ -1,1 +1,1 @@
-Using A Api to get movies data, cover photo and trailer
+Using  Api to get movies data, cover photo and trailer
