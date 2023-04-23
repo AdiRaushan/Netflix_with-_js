@@ -1,1 +1,5 @@
-Using  Api to get movies data, cover photo and trailer
+one of my javascript project - 
+
+
+NETFLIX APP with USing of Api 
+api - to get data and diplay it
